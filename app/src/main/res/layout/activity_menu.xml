@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    android:padding="16dp">
+
+    <!-- ListView para exibir os itens do menu -->
+    <ListView
+        android:id="@+id/listViewMenu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/buttonAddToCart"
+        android:cacheColorHint="@color/white"
+        android:layout_marginBottom="16dp"
+        android:choiceMode="multipleChoice" />
+
+    <!-- Botão para adicionar itens ao carrinho -->
+    <Button
+        android:id="@+id/buttonAddToCart"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:text="Adicionar ao Carrinho"
+        android:backgroundTint="@color/purple_500"
+        android:textColor="@android:color/white" />
+
+</RelativeLayout>

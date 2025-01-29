@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">JustEatBurguer_v2</string>
+    <string-array name="payment_methods">
+        <item>Pix</item>
+        <item>Dinheiro</item>
+        <item>Cartão de Crédito</item>
+        <item>Cartão de Débito</item>
+    </string-array>
+</resources>
