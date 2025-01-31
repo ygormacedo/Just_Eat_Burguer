@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "84394624739",
+    "firebase_url": "https://justeatburguer-default-rtdb.firebaseio.com",
+    "project_id": "justeatburguer",
+    "storage_bucket": "justeatburguer.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84394624739:android:0f4c4207e7c7c37e5f67d6",
+        "android_client_info": {
+          "package_name": "devandroid.macedo.justeatburguer_v2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgW8NKyZ_Kfwukqr9z0lUqsYkshuN0d_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
